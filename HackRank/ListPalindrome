@@ -1,0 +1,4 @@
+n=int(input("enter the size of list"))
+a=list(input().strip().split(' '))
+print(n)
+print(a)
